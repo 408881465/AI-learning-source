@@ -6,7 +6,7 @@ https://course.fast.ai/index.html
 
 
 
-- Object Detection in Google Colab with Custom Dataset      
-- [Object Detection in Google Colab with Custom Dataset](https://hackernoon.com/object-detection-in-google-colab-with-custom-dataset-5a7bb2b0e97e) 
-- [Turning your Mobile Phone Camera into an Object Detector (on your own!)](https://towardsdatascience.com/turning-your-mobile-phone-camera-into-an-object-detector-on-your-own-1428055b8e01)
+- Object Detection in Google Colab with Custom Dataset  
+   - [Object Detection in Google Colab with Custom Dataset](https://hackernoon.com/object-detection-in-google-colab-with-custom-dataset-5a7bb2b0e97e) 
+   - [Turning your Mobile Phone Camera into an Object Detector (on your own!)](https://towardsdatascience.com/turning-your-mobile-phone-camera-into-an-object-detector-on-your-own-1428055b8e01)
 
