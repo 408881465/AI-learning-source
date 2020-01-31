@@ -4,3 +4,8 @@
 
 https://course.fast.ai/index.html
 
+
+
+Object Detection in Google Colab with Custom Dataset
+
+[Object Detection in Google Colab with Custom Dataset](https://hackernoon.com/object-detection-in-google-colab-with-custom-dataset-5a7bb2b0e97e)
