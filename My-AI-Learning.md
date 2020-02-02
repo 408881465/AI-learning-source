@@ -25,3 +25,12 @@ https://course.fast.ai/index.html
    
 - Tools
    - [Google Images Download](https://google-images-download.readthedocs.io/en/latest/index.html)Google下载图片
+
+- Google 镜像
+   - https://hub.dev
+      ``` 
+      改动前:https://tfhub.dev/google/imagenet/resnet_v2_50/feature_vector/1
+
+      改动后:https://storage.googleapis.com/tfhub-modules/google/imagenet/resnet_v2_50/feature_vector/1.tar.gz
+      ``` 
+
