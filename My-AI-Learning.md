@@ -34,4 +34,11 @@ https://course.fast.ai/index.html
       https://hub.tensorflow.google.cn/google/imagenet/resnet_v2_50/feature_vector/1
       
       ``` 
+   - [Google预训练模型的地址]
+     ``` 
+     posenet模型的谷歌云地址是： https://storage.googleapis.com/tfjs-models/savedmodel/posenet/mobilenet/float/050/model-stride16.json
+     中国镜像的地址为 https://www.gstaticcnapps.cn/tfjs-models/savedmodel/posenet/mobilenet/float/050/model-stride16.json
+     ``` 
+     
+     
 
