@@ -32,5 +32,7 @@ https://course.fast.ai/index.html
       https://tfhub.dev/google/imagenet/resnet_v2_50/feature_vector/1
 
       https://storage.googleapis.com/tfhub-modules/google/imagenet/resnet_v2_50/feature_vector/1.tar.gz
+      https://hub.tensorflow.google.cn/google/imagenet/resnet_v2_50/feature_vector/1
+      
       ``` 
 
