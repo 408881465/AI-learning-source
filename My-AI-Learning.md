@@ -7,7 +7,7 @@ https://course.fast.ai/index.html
 
 
 - Object Detection  
-   - -[ ] [Object Detection in Google Colab with Custom Dataset](https://hackernoon.com/object-detection-in-google-colab-with-custom-dataset-5a7bb2b0e97e) 
+   - -[ ] [Object Detection in Google Colab with Custom Dataset](https://hackernoon.com/object-detection-in-google-colab-with-custom-dataset-5a7bb2b0e97e) Good
    - -[x] [Turning your Mobile Phone Camera into an Object Detector (on your own!)](https://towardsdatascience.com/turning-your-mobile-phone-camera-into-an-object-detector-on-your-own-1428055b8e01) ngrok.com 网络映射工具
    - -[ ] [real-time-object-detection-for-drones](https://nanonets.com/blog/real-time-object-detection-for-drones/) Nanonets.com
    - -[ ] [how-to-easily-detect-objects-with-deep-learning-on-raspberry-pi](https://nanonets.com/blog/how-to-easily-detect-objects-with-deep-learning-on-raspberry-pi/) Nanonets.com
@@ -17,9 +17,11 @@ https://course.fast.ai/index.html
    - -[ ] [how-to-train-your-own-object-detector-with-tensorflows-object-detector-api](https://towardsdatascience.com/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9)
    - -[ ] [tensorflow-object-detection-api-tutorial-training-and-evaluating-custom-object-detector](https://becominghuman.ai/tensorflow-object-detection-api-tutorial-training-and-evaluating-custom-object-detector-ed2594afcf73)
    - -[ ] [detecting-objects-in-videos-and-camera-feeds-using-keras-opencv-and-imageai](https://heartbeat.fritz.ai/detecting-objects-in-videos-and-camera-feeds-using-keras-opencv-and-imageai-c869fe1ebcdb)
+   
+   
 - Tensorflow Js
    - -[ ] [tensorflow-js-real-time-object-detection-in-10-lines-of-code](https://medium.com/hackernoon/tensorflow-js-real-time-object-detection-in-10-lines-of-code-baf15dfb95b2)
-   - -[ ] 
+   
    
 - Blocky Javascript
    - [Blockly and JS Interpreter to generate and execute JavaScript.](https://developers.google.com/blockly/guides/app-integration/running-javascript)
