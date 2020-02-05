@@ -28,6 +28,8 @@ https://course.fast.ai/index.html
    
 - Tools
    - [Google Images Download](https://google-images-download.readthedocs.io/en/latest/index.html)Google下载图片
+   - [https://mybinder.org/](https://mybinder.org/)
+   - [https://bookdown.org/](https://bookdown.org/)
 
 - Google 
    - https://hub.dev模型文件下载
