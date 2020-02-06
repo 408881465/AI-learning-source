@@ -21,6 +21,8 @@ https://course.fast.ai/index.html
    
 - Tensorflow Js
    - -[ ] [tensorflow-js-real-time-object-detection-in-10-lines-of-code](https://medium.com/hackernoon/tensorflow-js-real-time-object-detection-in-10-lines-of-code-baf15dfb95b2)
+   - -[ ] [A look at how we built the Emoji Scavenger Hunt using TensorFlow.js](https://medium.com/tensorflow/a-look-at-how-we-built-the-emoji-scavenger-hunt-using-tensorflow-js-3d760a7ebfe6)
+   - -[ ] [Emoji Scavenger Hunt](https://github.com/google/emoji-scavenger-hunt)
    
    
 - Blocky Javascript
