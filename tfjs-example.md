@@ -5,4 +5,5 @@
 - [Browser-Sentiment-Classification](https://github.com/zaidalyafeai/Browser-Sentiment-Classification)
 - [Interactive Machine Learning list](https://inbrowser.ai/)
 - [keras-js](https://transcranial.github.io/keras-js/#/) Good
+- [11 Javascript Machine Learning Libraries for 2019](https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c)
 
