@@ -4,4 +4,5 @@
 - [sentiment-classification-from-keras-to-the-browser](https://medium.com/@alyafey22/sentiment-classification-from-keras-to-the-browser-7eda0d87cdc6)
 - [Browser-Sentiment-Classification](https://github.com/zaidalyafeai/Browser-Sentiment-Classification)
 - [Interactive Machine Learning list](https://inbrowser.ai/)
+- [keras-js](https://transcranial.github.io/keras-js/#/) Good
 
