@@ -9,3 +9,6 @@
 - [JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js](https://justadudewhohacks.github.io/face-api.js/face_recognition) Great!
 - [rocksetta.com](https://www.rocksetta.com/tensorflowjs/)
 
+### Google Tensorflowjs Demo
+- [emojiscavengerhunt.withgoogle.com](https://emojiscavengerhunt.withgoogle.com/)
+
