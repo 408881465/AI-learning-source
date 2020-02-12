@@ -11,4 +11,5 @@
 
 ### Google Tensorflowjs Demo
 - [emojiscavengerhunt.withgoogle.com](https://emojiscavengerhunt.withgoogle.com/)
+- [webcam-transfer-learning](https://storage.googleapis.com/tfjs-examples/webcam-transfer-learning/dist/index.html)
 
