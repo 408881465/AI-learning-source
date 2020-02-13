@@ -33,6 +33,7 @@ https://course.fast.ai/index.html
    - [https://mybinder.org/](https://mybinder.org/)
    - [https://bookdown.org/](https://bookdown.org/)
    - [https://www.makesense.ai/](https://www.makesense.ai/)
+   - [百度图片爬虫](https://github.com/kong36088/BaiduImageSpider)
 
 - Google 
    - https://hub.dev模型文件下载
