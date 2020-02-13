@@ -34,6 +34,7 @@ https://course.fast.ai/index.html
    - [https://bookdown.org/](https://bookdown.org/)
    - [https://www.makesense.ai/](https://www.makesense.ai/)
    - [百度图片爬虫](https://github.com/kong36088/BaiduImageSpider)
+   - [scratch3-adapter tensorflow插件](https://blog.just4fun.site/post/%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B/adapter-tensorflow/)
 
 - Google 
    - https://hub.dev模型文件下载
