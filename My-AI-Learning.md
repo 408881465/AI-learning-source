@@ -46,6 +46,8 @@ https://course.fast.ai/index.html
      posenet模型的谷歌云地址是： https://storage.googleapis.com/tfjs-models/savedmodel/posenet/mobilenet/float/050/model-stride16.json
      中国镜像的地址为 https://www.gstaticcnapps.cn/tfjs-models/savedmodel/posenet/mobilenet/float/050/model-stride16.json
      ``` 
+- Demo
+   - [手把手用YOLO做目标检测](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9660128356312944998%22%7D&n_type=0&p_from=1)
      
      
 
