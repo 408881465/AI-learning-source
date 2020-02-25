@@ -14,7 +14,7 @@
 - [webcam-transfer-learning](https://storage.googleapis.com/tfjs-examples/webcam-transfer-learning/dist/index.html)
 
 ### tensorflowjs_converter 转换生成的文件说明
-- web_model.pb （数据流图
+- web_model.pb （数据流图）这是旧版本才生成的文件？
 - weights_manifest.json （重量清单文件）
 - group1-shard*of* （二进制权重文件的集合）
 
