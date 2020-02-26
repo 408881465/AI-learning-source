@@ -8,6 +8,7 @@
 - [11 Javascript Machine Learning Libraries for 2019](https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c)
 - [JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js](https://justadudewhohacks.github.io/face-api.js/face_recognition) Great!
 - [rocksetta.com](https://www.rocksetta.com/tensorflowjs/)
+- [aijs.rocks](https://aijs.rocks/inspire/)
 
 ### Google Tensorflowjs Demo
 - [emojiscavengerhunt.withgoogle.com](https://emojiscavengerhunt.withgoogle.com/)
