@@ -10,7 +10,7 @@
 - [rocksetta.com](https://www.rocksetta.com/tensorflowjs/)
 - [aijs.rocks](https://aijs.rocks/inspire/)
 
-### Javascript tutorial
+### Tensorflow Js tutorial
 - [Using TensorFlow.js to Automate the Chrome Dinosaur Game (part 1)](https://heartbeat.fritz.ai/automating-chrome-dinosaur-game-part-1-290578f13907)
 - [Using Genetic Algorithms to Automate the Chrome Dinosaur Game (Part 2)](https://heartbeat.fritz.ai/using-genetic-algorithms-to-automate-the-chrome-dinosaur-game-part-2-1c0007334297)
 
