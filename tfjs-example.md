@@ -9,6 +9,7 @@
 - [JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js](https://justadudewhohacks.github.io/face-api.js/face_recognition) Great!
 - [rocksetta.com](https://www.rocksetta.com/tensorflowjs/)
 - [aijs.rocks](https://aijs.rocks/inspire/)
+- [ROLLUP V. WEBPACK V. PARCEL](https://x-team.com/blog/rollup-webpack-parcel-comparison/)
 
 ### Tensorflow Js tutorial
 - [Using TensorFlow.js to Automate the Chrome Dinosaur Game (part 1)](https://heartbeat.fritz.ai/automating-chrome-dinosaur-game-part-1-290578f13907)
