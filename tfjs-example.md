@@ -10,6 +10,7 @@
 - [rocksetta.com](https://www.rocksetta.com/tensorflowjs/)
 - [aijs.rocks](https://aijs.rocks/inspire/)
 - [ROLLUP V. WEBPACK V. PARCEL](https://x-team.com/blog/rollup-webpack-parcel-comparison/)
+- [CORS](https://enable-cors.org/server_nginx.html)
 
 ### Tensorflow Js tutorial
 - [Using TensorFlow.js to Automate the Chrome Dinosaur Game (part 1)](https://heartbeat.fritz.ai/automating-chrome-dinosaur-game-part-1-290578f13907)
