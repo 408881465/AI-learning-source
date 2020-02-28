@@ -25,3 +25,6 @@
 - weights_manifest.json （重量清单文件）
 - group1-shard*of* （二进制权重文件的集合）
 
+### gitpod-alternatives
+- [https://www.slant.co/options/30317/alternatives/~gitpod-alternatives](https://www.slant.co/options/30317/alternatives/~gitpod-alternatives)
+
