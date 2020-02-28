@@ -28,4 +28,5 @@
 
 ### gitpod-alternatives
 - [https://www.slant.co/options/30317/alternatives/~gitpod-alternatives](https://www.slant.co/options/30317/alternatives/~gitpod-alternatives)
+- [alternatives/gitpod](https://www.producthunt.com/alternatives/gitpod)
 
