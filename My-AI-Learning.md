@@ -4,9 +4,9 @@
 
 https://course.fast.ai/index.html
 
--API
-   - [Keras中文教程](https://keras.io/zh/)
-   - [简单粗暴 TensorFlow 2](tf.wiki)
+- API
+   - -[ ] [Keras中文教程](https://keras.io/zh/)
+   - -[ ] [简单粗暴 TensorFlow 2](tf.wiki)
 
 - Object Detection  
    - -[ ] [Object Detection in Google Colab with Custom Dataset](https://hackernoon.com/object-detection-in-google-colab-with-custom-dataset-5a7bb2b0e97e) Good
