@@ -20,6 +20,8 @@
 ### Google Tensorflowjs Demo
 - [emojiscavengerhunt.withgoogle.com](https://emojiscavengerhunt.withgoogle.com/)
 - [webcam-transfer-learning](https://storage.googleapis.com/tfjs-examples/webcam-transfer-learning/dist/index.html)
+### Teachable Machine 
+- [teachable-machine-boilerplate](https://googlecreativelab.github.io/teachable-machine-boilerplate/)
 
 ### tensorflowjs_converter 转换生成的文件说明
 - web_model.pb （数据流图）这是旧版本才生成的文件？
@@ -30,3 +32,6 @@
 - [https://www.slant.co/options/30317/alternatives/~gitpod-alternatives](https://www.slant.co/options/30317/alternatives/~gitpod-alternatives)
 - [alternatives/gitpod](https://www.producthunt.com/alternatives/gitpod)
 
+### Wechat tfjs
+- [HunterXuan](https://hunterx.xyz/train-model-with-tfjs.html)
+- [wx-tfjs-demo](https://github.com/HunterXuan/wx-tfjs-demo)
