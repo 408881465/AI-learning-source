@@ -35,3 +35,6 @@
 ### Wechat tfjs
 - [HunterXuan](https://hunterx.xyz/train-model-with-tfjs.html)
 - [wx-tfjs-demo](https://github.com/HunterXuan/wx-tfjs-demo)
+
+### React Native tfjs
+- [React Native Experimenting with TensorFlow.js](https://t73liu.github.io/posts/experimenting-with-tfjs/)
