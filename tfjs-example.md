@@ -18,7 +18,8 @@
 - [tfjs-tutorials繁体汉语教程翻译](https://github.com/NoobTW/tfjs-tutorials)
 - [TensorFlow.js入门教程](https://www.w3cschool.cn/tensorflowjs/)
 - 👍👍[Browser-based Models with TensorFlow.js](https://www.coursera.org/learn/browser-based-models-tensorflow/)
-- [TensorFlow in JavaScript（Huan）](https://tf.wiki/zh/deployment/javascript.html)
+- 👍👍[TensorFlow in JavaScript（Huan）](https://tf.wiki/zh/deployment/javascript.html)
+- [NEXT学院TensorFlow.js遇到小程序](https://ke.qq.com/course/428263?taid=3619703948216551)
 
 ### Google Tensorflowjs Demo
 - [emojiscavengerhunt.withgoogle.com](https://emojiscavengerhunt.withgoogle.com/)
