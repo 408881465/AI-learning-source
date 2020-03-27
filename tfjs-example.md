@@ -17,6 +17,7 @@
 - [Using Genetic Algorithms to Automate the Chrome Dinosaur Game (Part 2)](https://heartbeat.fritz.ai/using-genetic-algorithms-to-automate-the-chrome-dinosaur-game-part-2-1c0007334297)
 - [tfjs-tutorials繁体汉语教程翻译](https://github.com/NoobTW/tfjs-tutorials)
 - [TensorFlow.js入门教程](https://www.w3cschool.cn/tensorflowjs/)
+- [Browser-based Models with TensorFlow.js](https://www.coursera.org/learn/browser-based-models-tensorflow/)
 
 ### Google Tensorflowjs Demo
 - [emojiscavengerhunt.withgoogle.com](https://emojiscavengerhunt.withgoogle.com/)
