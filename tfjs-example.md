@@ -21,6 +21,7 @@
 ### Google Tensorflowjs Demo
 - [emojiscavengerhunt.withgoogle.com](https://emojiscavengerhunt.withgoogle.com/)
 - [webcam-transfer-learning](https://storage.googleapis.com/tfjs-examples/webcam-transfer-learning/dist/index.html)
+- [Gallery of community built TensorFlow.js projects](https://github.com/tensorflow/tfjs/blob/master/GALLERY.md)
 ### Teachable Machine 
 - [teachable-machine-boilerplate](https://googlecreativelab.github.io/teachable-machine-boilerplate/)
 
