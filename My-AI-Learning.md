@@ -55,5 +55,13 @@ https://course.fast.ai/index.html
 - Demo
    - [手把手用YOLO做目标检测](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9660128356312944998%22%7D&n_type=0&p_from=1)
      
-     
+- GPU Installation
+   - [install tensorflow GPU on Jetson nano](https://medium.com/aiot-taipei/jeston-nano-tensorflow-gpu-%E5%AE%89%E8%A3%9D-b26d42f7c3f3)
+   ```shell
+   pip install --extra-index-url https://developer.download.nvidia.com/compute/redist/jp/v42 tensorflow-gpu==1.13.1+nv19.3
+   $ sudo pip3 install --extra-index-url https://developer.download.nvidia.com/compute/redist/jp/v42 tensorflow-gpu == $ TF_VERSION + nv $ NV_VERSION
+   TF_VERSION: TensorFlow的發布版本，例如: 1.12.0。
+   NV_VERSION: TensorFlow的每月NVIDIA容器版本，例如: 19.01。
+   
+   ```
 
