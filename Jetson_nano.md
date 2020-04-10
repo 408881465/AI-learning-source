@@ -1,6 +1,6 @@
 # AI-learning-source
 My AI Learning
-
+### [nvidia-jetson-nano-tensorflow-gpu](http://asahinow.blogspot.com/2019/08/nvidia-jetson-nano-tensorflow.html)
 ### ubuntu 下 python及pip 安装whl文件常见问题汇总
 
 ### 1.安装python
