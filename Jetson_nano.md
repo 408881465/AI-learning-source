@@ -1,9 +1,9 @@
 # AI-learning-source
 My AI Learning
 
-## ubuntu 下 python及pip 安装whl文件常见问题汇总
+### ubuntu 下 python及pip 安装whl文件常见问题汇总
 
-## 1.安装python
+### 1.安装python
 
 **1）\**no acceptable C compiler found in $PATH when installing python\****
 
@@ -26,7 +26,7 @@ My AI Learning
 
    ***\*把libpng12-dev换成libpng-dev就行了。同理 jpeg也适用。\****
 
-## **2.安装 scipy:**
+### **2.安装 scipy:**
 
 **1）出现 \**no lapack/blas sources found\** 错误.**
 
@@ -36,7 +36,7 @@ My AI Learning
 
  
 
-### **3.安装Pillow:**
+#### **3.安装Pillow:**
 
 **1）出现** ***\*The headers or library files could not be found for jpeg,  a required dependency when compiling Pillow from source.\******错误。**
 
@@ -46,7 +46,7 @@ My AI Learning
 sudo apt-get install libtiff5-dev libjpeg-dev libopenjp2-7-dev zlib1g-dev libfreetype6-dev liblcms2-dev libwebp-dev tcl8.6-dev tk8.6-dev python-tk libharfbuzz-dev libfribidi-dev
 ```
 
-### **4.安装H5py**
+#### **4.安装H5py**
 
 **1）\**pip install h5py 下载完成后卡住不动：\****
 
