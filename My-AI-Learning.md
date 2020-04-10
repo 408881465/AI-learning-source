@@ -57,6 +57,7 @@ https://course.fast.ai/index.html
      
 - GPU Installation
    - [install tensorflow GPU on Jetson nano](https://medium.com/aiot-taipei/jeston-nano-tensorflow-gpu-%E5%AE%89%E8%A3%9D-b26d42f7c3f3)
+   - [provided an official release of TensorFlow GPU for the Jetson Nano.](http://asahinow.blogspot.com/2019/08/nvidia-jetson-nano-tensorflow.html)
    ```shell
    pip install --extra-index-url https://developer.download.nvidia.com/compute/redist/jp/v42 tensorflow-gpu==1.13.1+nv19.3
    $ sudo pip3 install --extra-index-url https://developer.download.nvidia.com/compute/redist/jp/v42 tensorflow-gpu == $ TF_VERSION + nv $ NV_VERSION
