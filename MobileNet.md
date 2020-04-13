@@ -32,6 +32,7 @@ python train_image_classifier.py \
 --trainable_scopes=MobilenetV2/Logits,MobilenetV2/Predictions,MobilenetV2/predics \
 
 ```
+In mobilenet_v2.py, depth_multiplier=1 for both mobilenet and mobilenet_base, you should change that to 1.4
 ```shell
 @slim.add_arg_scope 
 def mobilenet_base(input_tensor, depth_multiplier=1.4, **kwargs): 
