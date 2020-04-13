@@ -32,6 +32,7 @@ python train_image_classifier.py \
 --trainable_scopes=MobilenetV2/Logits,MobilenetV2/Predictions,MobilenetV2/predics \
 
 ```
+```shell
 @slim.add_arg_scope 
 def mobilenet_base(input_tensor, depth_multiplier=1.4, **kwargs): 
 """Creates base of the mobilenet (no pooling and no logits) .""" 
@@ -49,3 +50,4 @@ def mobilenet(input_tensor,
                   min_depth=None,
                   divisible_by=None,
                   **kwargs):
+```
