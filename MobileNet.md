@@ -52,3 +52,5 @@ def mobilenet(input_tensor,
                   divisible_by=None,
                   **kwargs):
 ```
+###[Mobilenet V2 on checkpoint inference Example.ipynb](https://colab.research.google.com/drive/1Acs79Ob0hy_cvlFIqQwAsZVPCkn9Dxe1#scrollTo=qSU2h5NRlN7V)
+[AttributeError: module 'tensorflow._api.v1.compat' has no attribute 'v2' ](https://github.com/tensorflow/models/issues/8088)
