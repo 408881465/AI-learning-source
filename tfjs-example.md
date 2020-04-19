@@ -43,3 +43,6 @@
 
 ### React Native tfjs
 - [React Native Experimenting with TensorFlow.js](https://t73liu.github.io/posts/experimenting-with-tfjs/) [how-to-resolve-the-error-on-react-native-start](https://stackoverflow.com/questions/58120990/how-to-resolve-the-error-on-react-native-start)
+
+### Tools
+- [Gitpod install python3 tensorflow](https://www.gitpod.io/docs/languages/python/)
